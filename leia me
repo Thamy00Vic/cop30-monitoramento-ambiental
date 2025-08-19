@@ -1,0 +1,14 @@
+# Green Norte API
+
+## Overview
+This is an API for the Green Norte project.
+
+## Structure
+- `/api` - Contains API logic and endpoints.
+- `/endpoints` - Contains individual API endpoint logic.
+
+## Getting Started
+1. Install dependencies:
+   ```bash
+   npm install express
+   
